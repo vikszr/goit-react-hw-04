@@ -1,0 +1,21 @@
+.modalContent {
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.modalImage {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  max-height: calc(90vh - 300px);
+}
+
+.imageInfo {
+  margin-top: 16px;
+  color: #333;
+}
+
+.imageInfo p {
+  margin: 8px 0;
+}
